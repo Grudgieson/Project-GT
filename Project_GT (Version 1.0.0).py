@@ -1,10 +1,5 @@
 """
 Created: 9/10/2022
-
-Contributers:
-Garrison Knapp
-Max Gwartney
-Van Adcox
 """
 
 # Importing Packages & Libraries
