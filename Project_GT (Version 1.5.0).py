@@ -1,9 +1,5 @@
 """
-Created: 9/10/2022
-
-Contributers:
-Garrison Knapp
-Max Gwartney
+Created: 9/12/2022
 """
 
 # Importing Packages & Libraries
